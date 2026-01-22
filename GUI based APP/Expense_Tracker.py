@@ -1,4 +1,6 @@
 # Desktop app
+
+# tkinter is a module that helps build desktop apps
 import tkinter as tk
 
 class ExpenseTracker:
