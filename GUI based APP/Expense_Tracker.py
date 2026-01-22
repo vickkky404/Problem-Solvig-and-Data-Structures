@@ -1,3 +1,4 @@
+# Desktop app
 import tkinter as tk
 
 class ExpenseTracker:
