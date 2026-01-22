@@ -4,6 +4,7 @@
 
 # importing tkinter as tk 
 import tkinter as tk
+# the (as) is allias..
 
 class ExpenseTracker:
     def __init__(self, root):
