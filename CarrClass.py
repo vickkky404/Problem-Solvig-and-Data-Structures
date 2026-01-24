@@ -10,3 +10,4 @@ class Car:
 
     def __str__(self):
         return f"{self.year} {self.make} {self.model}"
+    print("Car class defined.")
