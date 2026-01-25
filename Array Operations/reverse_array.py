@@ -1,3 +1,5 @@
+# array operation
+
 import array as arr
 
 val = arr.array('i' , [1,2,3,4,5,6])
