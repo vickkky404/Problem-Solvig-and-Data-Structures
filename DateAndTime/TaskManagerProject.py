@@ -1,7 +1,8 @@
 # project: Task Manager with Date and Time Reminder
-
 # concpt: A simple task manager that allows users to set tasks with specific date and time reminders. When the time arrives, the program will notify the user.
 # module: Task Manager with Date and Time Reminder
+
+# time and date module is used here
 from datetime import datetime
 import time
 
